@@ -1,5 +1,5 @@
 ## 오늘 뭐 먹지?
-
+<!--
 - 경북대 근처 식당 메뉴 추천 웹앱 `오늘 뭐 먹지?`
   - [오늘 뭐 먹지 시연 영상](https://github.com/tula3and/rainbow-meal/blob/main/data/Demo%20Video.mp4)
     - 영상은 다운로드해야 볼 수 있습니다.
@@ -16,3 +16,4 @@
 - Sources
   - Icons: [Font Awesome](https://fontawesome.com/)
   - Header font: Jua from [Google Fonts](https://fonts.google.com/)
+-->
